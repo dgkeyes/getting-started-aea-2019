@@ -2,6 +2,7 @@ library(xaringan)
 library(here)
 library(rmarkdown)
 library(pagedown)
+library(tidyverse)
 
 # Render presentation -----------------------------------------------------
 
