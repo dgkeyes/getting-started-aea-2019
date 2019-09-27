@@ -1,7 +1,7 @@
-library(webshot)
 library(xaringan)
 library(here)
 library(rmarkdown)
+library(pagedown)
 
 # Render presentation -----------------------------------------------------
 
@@ -12,8 +12,5 @@ library(rmarkdown)
 
 # Convert to PDF ----------------------------------------------------------
 
-https://github.com/yihui/xaringan/wiki/Export-Slides-to-PDF
-
-webshot(here("slides", "slides.html"), 
+chrome_print(here("slides", "slides.html"), 
         here("slides", "slides.pdf"))
-
