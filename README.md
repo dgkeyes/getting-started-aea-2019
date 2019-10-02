@@ -8,4 +8,6 @@ Others become overwhelmed, in a classic example of the paradox of choice, with a
 
 This presentation goes step-by-step, helping people understand what R is, what you need to download, and what it looks like to begin using it. This presentation uses a [Tidyverse-centric approach](http://varianceexplained.org/r/teach-tidyverse/) that makes the learning process much easier (it’s also [favored by experienced users](https://twitter.com/rfortherest/status/1095375761660395520)).
 
-For more info learning R, visit the [R for the Rest of Us website](https://rfortherestofus.com/).
+This presentation uses a [Tidyverse-centric approach](http://varianceexplained.org/r/teach-tidyverse/) that makes the learning process much easier (it’s also [favored by experienced users](https://twitter.com/rfortherest/status/1095375761660395520)).
+
+For more info, visit the [R for the Rest of Us website](https://rfortherestofus.com/courses/getting-started/).
